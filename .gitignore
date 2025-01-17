@@ -1,5 +1,6 @@
-*
-!**/*.tex
-!.git/
-!.gitignore
-!.pdf
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+.vscode
